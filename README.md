@@ -23,5 +23,5 @@ The project includes:
 - `/solidworks_files` → Part and assembly files (SLDPRT, SLDASM)  
 
 ## 🎥 Demo
-![Engine Motion](screenshots/motion_study.gif)
+![Engine Motion](animation/motion_study.gif)
 
