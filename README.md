@@ -19,7 +19,6 @@ The project includes:
 ## 📂 Repository Contents
 - `/drawings` → Technical drawing PDFs  
 - `/animation` → Motion study MP4 export  
-- `/screenshots` → CAD renders & motion stills  
 - `/solidworks_files` → Part and assembly files (SLDPRT, SLDASM)  
 
 ## 🎥 Demo
